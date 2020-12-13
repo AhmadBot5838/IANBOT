@@ -2,7 +2,7 @@
 * "Jangan modal nama doang bro!!!"
 * (Scriptnya Nfq cuy).
 */
-const BotName = 'AGAN•™BOT:)'; // Nama Bot Whatsapp
+const BotName = 'GUSTIAN BOT'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/ahmad_gustian_adi_nugraha'; // Nama Instagramlu cok
 const whatsapplu = 'Wa.me/6282137409151'; // Nomor whatsapplu cok
 const kapanbotaktif = 'BOT AKTIF 24JAM / TERGANTUNG JARINGAN'; // Kapan bot lu aktif
